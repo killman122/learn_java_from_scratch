@@ -1,0 +1,14 @@
+在Java中所有的关键字都是小写字符
+但是在python这类语言中的关键字有大写和小写的
+
+用于定义的数据类型的关键字
+class       interface       enum        byte        short
+int         long            float       double      char
+boolean     void
+用于定义数据类型值的关键字
+true        false       null
+用于定义路程控制的关键字
+if      else        switch      case        default
+while       do        for       break       continue
+return
+

@@ -1,0 +1,9 @@
+判断题
+与void show(int a,char b,double c){}构成重载的有:
+void show(int x,char y,double z){}  不是.由于只是函数中参数的名称不同,不构成重载的条件
+int show(int a,double c,char b){}   是
+void show(int a,double c,char b){}是
+boolean show(int a,char b){}    是
+void show(double c){}   是
+double show(int x,char y,double z){}    不是
+void shows(){}  是

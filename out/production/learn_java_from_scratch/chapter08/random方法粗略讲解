@@ -1,0 +1,3 @@
+new Random 对象
+Random r = new Random();
+r.nextInt(3) 返回0-2之间的随机数

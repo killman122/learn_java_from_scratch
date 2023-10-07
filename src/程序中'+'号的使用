@@ -1,0 +1,7 @@
+在Java中当左右两边的数值都是数值型时,则程序做加法运算
+当左右两边有一方是字符串时,则程序做拼接运算
+
+System.out.println(100+99);//199
+System.out.println("100"+99);//10099 字符串和数据之间的拼接
+System.out.println(100+3+"hello");//103hello
+System.out.println("hello"+100+3);//hello1003
